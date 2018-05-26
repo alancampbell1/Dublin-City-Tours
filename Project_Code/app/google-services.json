@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "953733643591",
+    "firebase_url": "https://news-de260.firebaseio.com",
+    "project_id": "news-de260",
+    "storage_bucket": "news-de260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953733643591:android:7806c0158bae884a",
+        "android_client_info": {
+          "package_name": "com.cs385.alancampbell.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953733643591-ulhfdk587isfsdju404nc0mc7hh9hvul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9TuSUrzWL9_5eLMriPV-SIP3D6LuzsAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

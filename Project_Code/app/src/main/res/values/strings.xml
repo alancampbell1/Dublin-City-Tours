@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Dublin City Tour</string>
+
+    <string-array name="Country_of_Origin">   <!--The purpose of this array is for the Spinner button to have options to choose from -->
+        <item>Ireland</item>
+        <item>United Kingdom</item>
+        <item>Europe</item>
+        <item>United States of America</item>
+        <item>Australia</item>
+        <item>Rest of World</item>
+    </string-array>
+
+    <string name="Welcome">Welcome to</string>
+    <string name="Welcome2">Welcome</string>
+    <string name="Quiz">Quiz</string>
+    <string name="QuickLinks">Quick Links</string>
+    <string name="Newsletter">Newsletter</string>
+    <string name="Weather">Weather</string>
+    <string name="News">News</string>
+    <string name="Tour">Tour</string>
+
+    <string name="GuinnessTitle">Guinness Storehouse</string>
+    <string name="GuinnessText">The Guinness Storehouse is located at St. James Gate Brewery. It was first opened in 2000 and is Ireland’s most popular tourist attraction with 1.6 million visitors last year.</string>
+    <string name="ChristChurchTitle">Christ Church Cathedral</string>
+    <string name="ChristChurchText">Christ Church Cathedral is located in the city centre and a five minutes walk from O’Connell Bridge. It dates back to 1030 and home to Dublinia, a Medieval Museum that teaches Dublin’s History during this period.</string>
+    <string name="TrinityTitle">Trinity College</string>
+    <string name="TrinityText">Trinity College is in the heart of the city at College Green and is easily accessible by bus or walking. It was first built in 1592 and is ranked 88th in the top 100 world universities.</string>
+    <string name="CrokeTitle">Croke Park</string>
+    <string name="CrokeText">Croke Park is located north of the River Liffey. It is Europe’s third largest stadium (83,200 cap.) and is the headquarters of the GAA. Gaelic Football and Hurling games are played here on a regular basis.</string>
+    <string name="NextStop">Next Stop</string>
+    <string name="Home">Main Menu</string>
+
+    <string name="title_activity_quiz">Dublin City Tour</string>
+    <string name="title_activity_map1">Dublin City Tour</string>
+    <string name="title_activity_map2">Dublin City Tour</string>
+    <string name="title_activity_map3">Dublin City Tour</string>
+    <string name="title_activity_map4">Dublin City Tour</string>
+    
+    <string name="quickLinks1">\nLuas is a tram/light rail system in Dublin, Ireland, which in 2016 carried 34.2 million passengers.</string>
+    <string name="quickLinks2">\nDublin Bus is the biggest public transport provider in the Greater Dublin Area operating over 136 routes. Normal services run from 5.00am until midnight. The Nitelink service operates from midnight until 4.00am on Friday and Saturday nights.</string>
+    <string name="quickLinks3">\nIrish Rail operates city and commuter services in Dublin and Cork as well as intercity services throughout Ireland.</string>
+    <string name="quickLinks4">\nBus Éireann (Irish Bus) is a bus and coach operator providing services throughout the Republic of Ireland.</string>
+    <string name="quickLinks5">\nLynk is Dublin’s only taxi app that sends you a proper legal taxi with a garda vetted driver. No exceptions.</string>
+    <string name="quickLinks6">\nDublinia is a historical recreation museum and visitor attraction in Dublin, Ireland, focusing on the Viking and Medieval history of the city.</string>
+    <string name="quickLinks7">\nDublin Zoo , in Phoenix Park, Dublin, is the largest zoo in Ireland, and one of Dublin\'s most popular attractions.</string>
+
+    <string name="YourEmailHere">Your Email Here</string>
+    <string name="Subscribe">Subscribe</string>
+    <string name="RecieveOurNewsletter">Recieve Our Newsletter</string>
+    <string name="YourNameHere">Your Name Here</string>
+    <string name="AgeGroup">Age Group</string>
+    <string name="Gender">Gender</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="CountryOfOrigin">Country of Origin: </string>
+    <string name="ZeroSeventeen">0 - 17</string>
+    <string name="eighteenTwentyFour">18 - 24</string>
+    <string name="twentyFiveFifty">25 - 50</string>
+    <string name="OverFifty">Over 50</string>
+
+    <string name="DublinCityWeather">Dublin City Weather</string>
+    <string name="RecordedFrom">Recorded From</string>
+    <string name="WeatherInfo">TextView</string>
+
+</resources>
